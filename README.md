@@ -33,4 +33,4 @@ Driving research, product development, and business transformation.
 
 Additional Resources
 
-For more insights on GCC strategy, trends, and implementation approaches, visit: https://www.optisolbusiness.com/insight/how-to-build-an-ai-innovation-hub-in-india-the-2026-enterprise-blueprint
+For more insights on GCC strategy, trends, and implementation approaches, visit: https://www.optisolbusiness.com/global-capability-center
